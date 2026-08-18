@@ -1,7 +1,7 @@
 # Reference copy for review — the version GitHub Actions actually executes
 # lives at the root of the novapay app repo (.github/workflows/ci.yml there).
 # This copy will grow to include the additional stages from Deliverables 2-8
-# (deploy, compliance gates, promotion, rollback) as those are built out.
+# (deploy, compliance gates, promotion, rollback) as those are built out
 name: CI
 
 on:
